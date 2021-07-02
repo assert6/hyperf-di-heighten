@@ -1,0 +1,13 @@
+{
+  "name": "assert6/hyperf-di-heighten",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.4",
+    "hyperf/di": "~2.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hyperf\\Di\\Heighten\\": "src/"
+    }
+  }
+}
